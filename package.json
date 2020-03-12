@@ -1,0 +1,9 @@
+{
+  "name": "lit-element-example-1mbx4f",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/lit-element": "0.6.0-dev.5",
+    "@webcomponents/webcomponentsjs": "2.0.0-beta.3"
+  }
+}
